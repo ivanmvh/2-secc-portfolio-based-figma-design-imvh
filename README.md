@@ -1,26 +1,36 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Design first page  portfolio app based in a figma template 
 
-# Portfolio Project
+> Skeleton design of the first page of a mobile app in html and css based on a figma template
 
-> Creating my first Portfolio with help from Figma's templates.
+> This is a project to learn how to install and use Linter.
+
+In this project has installed Linter to check HTML and CSS.
+
+In order to work Linter we had installed the folder anf file
+
+- .github\workflows and the file linters.yml
+
+> Properties and values of many of the properties in the css file has been extracted from the figma template.
+
+> Image has been exported from the figma template. When a group of images in the figma template forms a group this is exported as a svg image.
+
 
 ## Built With
 
 - HTML
 - CSS
-- Git
-- Linter
+
+## Tools used
+- SCM extension Visual Studio Code
+- GITHUB Desktop
+- Figma template
 
 ## Author
+
 👤 **Ivan Martinez von Halle**
 
 - GitHub: [@ivanmvh](https://github.com/ivanmvh)
 - Twitter: [@imprivado](https://twitter.com/imprivado)
-
-
-## Download
-
-- Clone this repository to your machine and use it as a template for your own portfolio, as I have used this from a previous template.
 
 ## Show your support
 
