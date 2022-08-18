@@ -1,18 +1,19 @@
-* { box-sizing: border-box;
+* {
+  box-sizing: border-box;
   margin: 0;
 }
 
 .img1 {
   margin-left: -8px;
   margin-top: -8px;
- }
+}
  
- nav {
+nav {
   display: flex;
   justify-content: space-between;
- }
+}
  
- h1 {
+h1 {
   color: #1a2236;
   width: 220px;
   line-height: 100%;
@@ -21,9 +22,9 @@
   font-size: 50px;
   font-weight: 400;
   font-family: 'Playfair Display', serif;
- }
+}
  
- p {
+p {
   color: #1a2236;
   width: 288px;
   height: 80px;
@@ -33,7 +34,7 @@
   font-family: 'Poppins', serif;
   font-weight: 400;
   line-height: 21px;
- }
+}
  
  button {
   border-color: #1a2236;
