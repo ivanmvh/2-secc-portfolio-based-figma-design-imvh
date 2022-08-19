@@ -1,22 +1,15 @@
-# My Portafolio based in Figma Template 
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Design first page  portfolio app based in a figma template 
+# Porfolio Project 
 
-# Detailed Description
-
-> Skeleton design of the first page of a mobile app in html and css based on a figma template
-
-> Properties and values of many of the properties in the css file has been extracted from the figma template.
-
-> Image has been exported from the figma template. When a group of images in the figma template forms a group this is exported as a svg image.
-
+Design first page  portfolio app based in a figma template 
+Skeleton design of the first page of a mobile app in html and css based on a figma template
+Properties and values of many of the properties in the css file has been extracted from the figma template:
 
 ## Built With
 
 - HTML
 - CSS
-
-## Tools used
 - SCM extension Visual Studio Code
 - GITHUB Desktop
 - Figma template
