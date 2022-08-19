@@ -16,8 +16,8 @@ header {
 }
 
 nav {
- margin-top: 19px; 
- margin-right: 16px;
+  margin-top: 19px;
+  margin-right: 16px;
 }
 
 #menu1 {
@@ -31,7 +31,7 @@ h1 {
   font-weight: 400;
   font-size: 50px;
   line-height: 100%;
-  width:220px ;
+  width: 220px;
   color: #1a2236;
   text-align: left;
   margin-top: 19px;
