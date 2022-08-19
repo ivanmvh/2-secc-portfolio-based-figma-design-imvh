@@ -1,4 +1,8 @@
-# Design first page  portfolio app based in a figma template 
+# My Portafolio based in Figma Template 
+
+> Design first page  portfolio app based in a figma template 
+
+# Detailed Description
 
 > Skeleton design of the first page of a mobile app in html and css based on a figma template
 
